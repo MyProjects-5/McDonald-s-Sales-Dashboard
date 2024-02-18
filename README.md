@@ -9,11 +9,11 @@ actionable insights that Will enhance the performance of the McDonald’s shop.
 
 
 # Key Skills Learned :-
-| -High level data analysis in MS Excel.
-| -Building and sharing interactive Excel Dashboards.
-| -Visualizing data with charts in MS Excel.
-| -Identifying business problem using Excel.
-| -Creating Excel Dashboards with various visuals.
+| -High level data analysis in MS Excel.     
+| -Building and sharing interactive Excel Dashboards.     
+| -Visualizing data with charts in MS Excel.      
+| -Identifying business problem using Excel.       
+| -Creating Excel Dashboards with various visuals.       
 
 # Recommended Analysis :-
 1. Key Performance Indicators :-        
@@ -28,3 +28,5 @@ actionable insights that Will enhance the performance of the McDonald’s shop.
 
 # Screenshot of the Analysis :-
 # Output
+![Screenshot 2024-02-14 134817](https://github.com/MyProjects-5/McDonald-s-Sales-Dashboard/assets/140932670/70e7df07-8d87-446e-83c5-c297c950d08f)
+
