@@ -15,9 +15,9 @@ actionable insights that Will enhance the performance of the McDonald’s shop.
 
 ### 📌 Recommended Analysis :-
 - Key Performance Indicators :-                 
-       ✔️ Total sales in the year 2022.            
-       ✔️ Total profit in the year 2022.            
-       ✔️ Amount of Customers.              
+       ◾ Total sales in the year 2022.            
+       ◾ Total profit in the year 2022.            
+       ◾ Amount of Customers.              
 
 - What is the total sales revenue for each month ?   
 - How do sales vary across different country ?      
