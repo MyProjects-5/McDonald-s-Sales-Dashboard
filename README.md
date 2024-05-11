@@ -5,7 +5,6 @@ I am very excited to share my Microsoft Excel Project of McDonald's Store.
 The Main objective of this project is to analyze Sales data to gain 
 actionable insights that Will enhance the performance of the McDonald’s shop.
 
-
 ### 📌 Key Skills Learned :-
 - High level data analysis in MS Excel.     
 - Building and sharing interactive Excel Dashboards.     
@@ -22,7 +21,6 @@ actionable insights that Will enhance the performance of the McDonald’s shop.
 - What is the total sales revenue for each month ?   
 - How do sales vary across different country ?      
 - What is the Customer Satisfaction Rate ?     
-
 
 ## Screenshot of the Analysis :-
 ![Screenshot 2024-02-14 134817](https://github.com/MyProjects-5/McDonald-s-Sales-Dashboard/assets/140932670/70e7df07-8d87-446e-83c5-c297c950d08f)
