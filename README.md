@@ -1,4 +1,4 @@
-# McDonald's Sales Dasboard
+# McDonald's Sales Dasboar
 I am very excited to share my Microsoft Excel Project of McDonald's Store.
 
 ## Project Objective :-
